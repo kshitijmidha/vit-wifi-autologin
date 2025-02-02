@@ -17,7 +17,7 @@ An automated WiFi login system for VIT hostels that handles authentication autom
 2. Run `setup.bat` as administrator
 3. Enter your details when prompted:
    - Your name
-   - VIT username (e.g., 21BCE0012)
+   - VIT username (e.g., 21BCEXXXX)
    - VIT password
    - Hostel WiFi name (e.g., R-VIT)
 
